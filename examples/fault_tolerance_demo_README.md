@@ -1,8 +1,8 @@
-![alt text](image.png)
-
 # Fault-Tolerant Counter Service Demo
 
 Demonstrates Monarch's fault tolerance using a simple stateful counter actor.
+
+![alt text](image.png)
 
 ## What It Does
 
